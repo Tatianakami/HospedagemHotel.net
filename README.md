@@ -44,6 +44,8 @@ HospedagemHotel/ ├── Program.cs ├── Models/ │   ├── Pessoa.c
    dotnet run
 🧠 Autor
 
- Desenvolvido por Tatiana Kami com 💙 e curiosidade.Bootcamp DIO
+ Desenvolvido por Tatiana Kami com 💙 e curiosidade.
+
+ Bootcamp DIO GFT .Net 
 
 
