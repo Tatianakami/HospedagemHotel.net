@@ -13,7 +13,10 @@ com o objetivo de criar um sistema de hospedagem que gerencia reservas de suíte
 
 ## 📸 Demonstração
 
-![Demonstração do Projeto](hotel_gif.png)
+<div align="center">
+  <img src="hotel_gif.png" alt="Hotel GIF" width="500"/>
+</div>
+
 
 ## 🛠 Tecnologias
 
